@@ -1,0 +1,62 @@
+html{
+font-family:fantasy;
+}
+header{
+    background-color: teal;
+    margin: 0px auto;
+    color: white;
+
+}
+nav ul li{
+    display:inline-block;
+    margin: 0px auto;
+}
+nav img{
+    margin:0px auto;
+
+}
+ul{
+    margin: 0px 250px 100px;
+}
+#img1{
+    margin-left: 20px;
+}
+li:nth-child(3){
+    margin: 50px;
+}
+ul img{
+    padding-top: 20px;
+    display: inline-block;
+
+}
+body{
+    margin: 0px auto;
+}
+.sec1{
+    margin: 0px 250px 100px;
+}
+.sec2 {
+    margin: 0px 250px 100px;
+    margin-left: 250px;
+
+}
+footer{
+    background-color: teal;
+    margin: 0px auto;
+text-align: center;
+color: white;
+height: 60px;
+}
+footer p{
+   padding:20px;
+}
+.sec img{
+    margin: 0px 250px 100px;
+
+}
+.sec2 p{
+    overflow: scroll;
+float: right;
+width:480px;
+height: 250px;
+}
